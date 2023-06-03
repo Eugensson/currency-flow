@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/currency-flow/static/css/main.7acaea2f.css",
+    "main.js": "/currency-flow/static/js/main.07d3183d.js",
+    "index.html": "/currency-flow/index.html",
+    "main.7acaea2f.css.map": "/currency-flow/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/currency-flow/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
